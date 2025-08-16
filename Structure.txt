@@ -1,0 +1,17 @@
+api-testing-playwright/
+├── tests/
+│ ├── api.test.js # Core API operations
+│ ├── error-handling.spec.js # Error scenarios
+│ └── data-driven.spec.js # Data-driven tests
+├── helpers/
+│ └── apiHelpers.js # Helper functions
+├── data/
+│ └── testData.json # Test data
+├── reports/ # Generated reports
+├── playwright.config.js # Playwright configuration
+├── package.json # Dependencies and scripts
+└── README.md # This file
+
+
+
+
